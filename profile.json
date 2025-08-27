@@ -1,0 +1,61 @@
+{
+  "name": "\u7A7F\u8D8A",
+  "setup": {
+    "source": null,
+    "version": "1.21.1",
+    "loader": "net.neoforged:21.1.200",
+    "packages": [
+      {
+        "purl": "curseforge:238222@6829086",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:309927@6529130",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:324717@6853386",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:412082@6913494",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:238086@5810100",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:416294@6886923",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:499980@6914080",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      },
+      {
+        "purl": "curseforge:585406@5820894",
+        "enabled": true,
+        "source": null,
+        "tags": []
+      }
+    ]
+  },
+  "overrides": {
+    "behavior.resolve.dependency": false
+  }
+}

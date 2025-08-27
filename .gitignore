@@ -1,0 +1,30 @@
+# Ignore everything at repo root by default
+/*
+
+# Keep this file
+!/.gitignore
+
+# Keep specific root files
+!/data.lock.json
+!/profile.json
+
+# Allow these top-level directories to exist in the tree
+!/build/
+!/doc/
+!/resource/
+!/resourece/
+
+# In build, ignore everything, then re-allow selected paths
+/build/**
+!/build/options.txt
+!/build/config/
+!/build/config/**
+!/build/defaultconfigs/
+!/build/defaultconfigs/**
+!/build/kubejs/
+!/build/kubejs/**
+
+# Allow all contents under doc and resource (and the misspelled variant, if present)
+!/doc/**
+!/resource/**
+!/resourece/**
