@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4bceda16dd893d87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa634619d802fc23",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1da510173d1350c3",
@@ -185,7 +170,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "ebf7ce08c6cf7ee2",
+  "active": "ab7dc5b9c07196d4",
   "lastOpenFiles": [
     "欢迎.md",
     "总策划.md",
